@@ -1,0 +1,7 @@
+com\example\questionsmicroservice\controllers\QuestionController.class
+com\example\questionsmicroservice\services\QuestionsService.class
+com\example\questionsmicroservice\components\QuestionForm.class
+com\example\questionsmicroservice\repository\QuestionRepo.class
+com\example\questionsmicroservice\QuestionsMicroserviceApplication.class
+com\example\questionsmicroservice\models\Question.class
+com\example\questionsmicroservice\uri\URIs.class

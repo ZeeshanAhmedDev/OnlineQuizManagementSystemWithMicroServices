@@ -1,0 +1,8 @@
+com\devrezaur\main\service\QuizService.class
+com\devrezaur\main\controller\MainController.class
+com\devrezaur\main\bean\ResultView.class
+com\devrezaur\main\feignclient\QuestionsFeignClient.class
+com\devrezaur\main\bean\QuestionView.class
+com\devrezaur\main\feignclient\ResultFeignClient.class
+com\devrezaur\main\SpringBootQuizAppApplication.class
+com\devrezaur\main\bean\QuestionForm.class

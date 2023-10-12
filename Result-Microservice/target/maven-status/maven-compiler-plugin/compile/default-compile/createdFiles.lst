@@ -1,0 +1,6 @@
+com\example\resultmicroservice\repository\ResultRepo.class
+com\example\resultmicroservice\uri\URIs.class
+com\example\resultmicroservice\services\ResultService.class
+com\example\resultmicroservice\controllers\ResultController.class
+com\example\resultmicroservice\models\Result.class
+com\example\resultmicroservice\ResultMicroserviceApplication.class
